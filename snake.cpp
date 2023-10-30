@@ -18,7 +18,7 @@ namespace Snake
             int screenheight = Console.WindowHeight;
             Random randomnummer = new Random();
             int score = 5;
-           //remove the lines
+           //remove the line
             hoofd.xpos = screenwidth/2;
             hoofd.ypos = screenheight/2;
             hoofd.schermkleur = ConsoleColor.Red;
